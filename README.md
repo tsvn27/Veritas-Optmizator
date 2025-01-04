@@ -2,8 +2,7 @@
 
 Bom isso é simplesmente um otmizador criado por mim que possui varias funções para te ajudar a melhorar seu fps.
 
-* 
-[![](![image](https://github.com/user-attachments/assets/0df1d7b1-7448-46c1-ab13-f69c496f7762)
+(![image](https://github.com/user-attachments/assets/0df1d7b1-7448-46c1-ab13-f69c496f7762)
 
 - No site, vá no campo: Actions > Copy Markdown. Copie o link e cole no seu arquivo README.md e o diagrama estará lá.
 
