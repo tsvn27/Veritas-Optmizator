@@ -1,9 +1,8 @@
-# Otmizador
+# Otimizador
 
-Bom isso é simplesmente um otmizador criado por mim que possui varias funções para te ajudar a melhorar seu fps.
+Bom, isso é simplesmente um otimizador criado por mim que possui várias funções para te ajudar a melhorar seu FPS.
 
 ![image](https://github.com/user-attachments/assets/0df1d7b1-7448-46c1-ab13-f69c496f7762)
-
 
 ### Tecnologias Utilizadas
 
@@ -11,11 +10,11 @@ Bom isso é simplesmente um otmizador criado por mim que possui varias funções
 
 ## Como rodar o projeto ✅
 
-Bom para você conseguir-lo rodar, apenas precisa executar o arquivo.
+Para rodar o projeto, basta executar o arquivo.
 
-## 📌 (Título) - Informações importantes sobre o Otimizador
+## 📌 Informações importantes sobre o Otimizador
 
-Sempre execute ele como admnistrador para que ele possa funcionar 100%
+Sempre execute-o como administrador para que ele possa funcionar 100%.
 
 ## ⚠️ Problemas enfrentados
 
@@ -23,4 +22,10 @@ Ainda nenhum bug ou problema descoberto.
 
 ## ⏭️ Próximos passos
 
-Bom, ainda penso em implementar novas coisas, mas não possuo mais ideias.
+Penso em implementar novas funcionalidades, mas ainda não tenho ideias específicas.
+
+## 🎮 Comunidade no Discord
+
+Junte-se à nossa comunidade no Discord para discutir melhorias e compartilhar experiências:
+
+[![Discord](https://img.shields.io/badge/Discord-Veritas-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/veritaz)
