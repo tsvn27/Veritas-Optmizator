@@ -1,9 +1,9 @@
-# DiscordTool
+# Otmizador
 
-Bom isso é simplesmente uma tool para o discord que tem varias funcoções.
+Bom isso é simplesmente um otmizador criado por mim que possui varias funções para te ajudar a melhorar seu fps.
 
 * 
-[![](https://mermaid.ink/img/pako:eNpVkE1uwjAQha9izapIZFGWWVSCBFZUVCq7mMXInjSW_Fdji6Ikp2HRg3CxmmRDZzV633uj0etBOElQQqvdRXQYIjvW3LI862bttRJ4_73fHHs9saJ4GwJ9JzrHgW1enulqMWc2DxOr-u0PGa_dOKvVFD1YGljd7NFH50_P5HhxA9s26qNzlv6TLlBO7ZoWyxYLgYFVGCYLLMFQMKhk_r5_KBxiR4Y4lHmV1GLSkQO3Y7Ziiu7zagWUMSRaQvISI9UKvwIayLf1OaskVXThfW5kKmb8AyAeX3o?type=png)](https://mermaid.live/edit#pako:eNpVkE1uwjAQha9izapIZFGWWVSCBFZUVCq7mMXInjSW_Fdji6Ikp2HRg3CxmmRDZzV633uj0etBOElQQqvdRXQYIjvW3LI862bttRJ4_73fHHs9saJ4GwJ9JzrHgW1enulqMWc2DxOr-u0PGa_dOKvVFD1YGljd7NFH50_P5HhxA9s26qNzlv6TLlBO7ZoWyxYLgYFVGCYLLMFQMKhk_r5_KBxiR4Y4lHmV1GLSkQO3Y7Ziiu7zagWUMSRaQvISI9UKvwIayLf1OaskVXThfW5kKmb8AyAeX3o)
+[![](![image](https://github.com/user-attachments/assets/0df1d7b1-7448-46c1-ab13-f69c496f7762)
 
 - No site, vá no campo: Actions > Copy Markdown. Copie o link e cole no seu arquivo README.md e o diagrama estará lá.
 
